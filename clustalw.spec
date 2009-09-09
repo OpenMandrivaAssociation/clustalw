@@ -1,11 +1,11 @@
 Summary:	General purpose multiple alignment program
 Name:		clustalw
-Version:	2.0.10
-Release:	%mkrel 2
+Version:	2.0.11
+Release:	%mkrel 1
 License:	Redistributable when non-commercial
 URL:		http://www.clustal.org
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
-Source:		http://www.clustal.org/download/%{version}/clustalw-%{version}-src.tar.gz
+Source:		http://www.clustal.org/download/%{version}/clustalw-%{version}.tar.gz
 Group:		Sciences/Biology
 
 %description
