@@ -1,6 +1,6 @@
 Summary:	General purpose multiple alignment program
 Name:		clustalw
-Version:	2.0.11
+Version:	2.1
 Release:	%mkrel 1
 License:	Redistributable when non-commercial
 URL:		http://www.clustal.org
