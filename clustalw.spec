@@ -34,5 +34,5 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root)
-%doc README LICENSE clustalw_help
+%doc README COPYING COPYING.LESSER clustalw_help
 %_bindir/*
