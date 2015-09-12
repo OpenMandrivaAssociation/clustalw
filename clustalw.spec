@@ -1,7 +1,7 @@
 Summary:	General purpose multiple alignment program
 Name:		clustalw
 Version:	2.1
-Release:	3
+Release:	4
 License:	GPLv3 and LGPLv3
 URL:		http://www.clustal.org
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
