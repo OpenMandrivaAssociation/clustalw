@@ -3,7 +3,7 @@ Name:		clustalw
 Version:	2.1
 Release:	5
 License:	GPLv3 and LGPLv3
-URL:		http://www.clustal.org
+URL:		https://www.clustal.org
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
 Source:		http://www.clustal.org/download/%{version}/clustalw-%{version}.tar.gz
 Group:		Sciences/Biology
