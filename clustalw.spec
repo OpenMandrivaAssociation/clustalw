@@ -8,6 +8,11 @@ BuildRoot:	%{_tmppath}/%{name}-%{version}-build
 Source:		http://www.clustal.org/download/%{version}/clustalw-%{version}.tar.gz
 Group:		Sciences/Biology
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 CLUSTAL W and CLUSTAL X Multiple Sequence Alignment Programs
                 (version 2.1, 17th Nov 2010)                
